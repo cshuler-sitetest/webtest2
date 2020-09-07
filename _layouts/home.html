@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <div id="main" class="call-out"
+         style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+    </div>
+
+    
+    
+</div>
+
+<! my absolutely terrible first attempt at generating buttons>
+
+<style>
+.container_center {
+  height: 200px;
+  position: relative;
+  
+}
+
+.center_center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+</style>
+
+
+<div class="container_center">
+  <div class="center_center">
+      <a href=/contracted_projects class="btn">Accademic</a>
+      <a href=/scholarly_projects class="btn">Corporate</a>
+  </div>
+</div>
+
+
+</div>
+    <p>Recent Work</p>
+</div>
