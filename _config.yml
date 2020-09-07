@@ -10,7 +10,7 @@ favicon: assets/sh/logo.png                         # Icon displayed in the tab
 
 # Header and footer text
 header_text: Shuler Hydrologic  # Change Blog header text
-header_feature_image: assets/sh/banner_top_clip.jpg
+header_feature_image: assets/sh/water.jpg
 footer_text: >
   Created by Shuler Hydrologic LLC, Powered by <a href="https://jekyllrb.com/">Jekyll</a> from <a href="https://github.com/sylhare/Type-on-Strap">sylhare</a>
 
