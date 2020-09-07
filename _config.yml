@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://cshuler-sitetest.github.io/Type-on-Strap-S-Hydro"
+url: "https://cshuler-sitetest.github.io/webtest2"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Shuler Hydrologic                                    # site's title
@@ -12,7 +12,7 @@ favicon: assets/sh/logo.png                         # Icon displayed in the tab
 header_text: Shuler Hydrologic  # Change Blog header text
 header_feature_image: assets/sh/banner_top_clip.jpg
 footer_text: >
-  Created by Shuler Hydrologic LLC, Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Created by Shuler Hydrologic LLC, Powered by <a href="https://jekyllrb.com/">Jekyll</a> from <a href="https://github.com/sylhare/Type-on-Strap">sylhare</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
