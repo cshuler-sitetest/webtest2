@@ -2,18 +2,19 @@
 layout: page
 title: Company Projects
 permalink: /llc_projects/
-feature-img: "assets/sh/Wfall_crop.jpg"
+feature-img: "assets/sh/RIMG0251.JPG"
 tags: []
 ---
 
-## Projects
-##### click to expand
+## Shuler Hydrologic Past Projects
+
+###### (click title to expand)
 
 
 <div class="accordion">
 
 <!-- SECTION NUMBER 1 -->
-         <input type="radio" name="select" class="accordion-select" checked />
+         <input type="radio" name="select" class="accordion-select" />
     <div class="accordion-title">
         <span>
             Island Wide Nutrient Modeling and Quantification of Coastal Freshwater Discharge for Tutuila, AS
@@ -30,7 +31,7 @@ tags: []
          
          
  <!-- SECTION NUMBER 2 -->        
-          <input type="radio" name="select" class="accordion-select" checked />
+          <input type="radio" name="select" class="accordion-select" />
     <div class="accordion-title">
         <span>
             Ground Penetrating Radar Field Test and Utility Locate Training Workshop, Tutuila, American Samoa
@@ -40,14 +41,14 @@ tags: []
     <div class="accordion-content">
         In the islands of American Samoa, the primary water resources issues, aquifer salinization, excessive drawdowns, etc., are compounded by high losses in the form of non-revenue water caused by a deteriorating and leaky transmission system.  To address the need to locate pipes and leaks, a survey team consisting of utility staff and Shuler Hydrologic team members performed a test survey utilizing Ground Penetrating Radar (GPR) to locate and assess water pipe infrastructure on Tutuila, American Samoa. As a geophysical method, GPR uses electromagnetic (radio-spectrum) pulses that are directed into the ground from an antenna. Reflections of these pulses from subsurface features are produced where there is a contrast between the electrical properties of subsurface objects, such as utilities, and the surrounding soil.  Potential for use of GPR to detect leaks was also assessed, though the electrical properties of Tutuila's soils did not provide the clarity needed to resolve small leaks.             <p>Map of modeled DIN discharge to the coast</p>                      
         <center>
-            <img src="/assets/sh/gpr.jpg" width="50%">
+            <img src="/assets/sh/gpr.jpg" width="40%">
             <p>Searching for buried leaking water mains</p> 
         </center>             
     </div>
          
 
 <!-- SECTION NUMBER 3 -->
-         <input type="radio" name="select" class="accordion-select" checked />
+         <input type="radio" name="select" class="accordion-select" />
     <div class="accordion-title">
         <span>
             American Samoa Water Use Data: A Workplan  for Evaluation and  Improvement
@@ -64,7 +65,7 @@ tags: []
     
     
 <!-- SECTION NUMBER 4 -->
-         <input type="radio" name="select" class="accordion-select" checked />
+         <input type="radio" name="select" class="accordion-select" />
     <div class="accordion-title">
         <span>
             Irradiance Study for Solar Resource Assessment at Tutuila-Based Measurement Stations
@@ -80,7 +81,7 @@ tags: []
     </div>
     
 <!-- SECTION NUMBER 4 -->
-         <input type="radio" name="select" class="accordion-select" checked />
+         <input type="radio" name="select" class="accordion-select" />
     <div class="accordion-title">
         <span>
             Informing a Surface Water Development Study, Fagaalu, American Samoa

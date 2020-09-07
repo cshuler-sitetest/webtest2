@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/sh/Wfall_crop.jpg"
+feature-img: "assets/sh/Wfall_crop2.jpg"
 tags: [About, Archive]
 ---
 
