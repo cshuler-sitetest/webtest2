@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/webtest2"
-url: "https://cshuler-sitetest.github.io/"
+baseurl: ""
+url: "https://cshuler-sitetest.github.io/webtest2"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Shuler Hydrologic                                    # site's title
