@@ -1,0 +1,11 @@
+---
+title: "Source partitioning of anthropogenic groundwater nitrogen in a mixed-use landscape, Tutuila, American Samoa"
+img: "assets/sh/quadrents.jpg"
+wid: "75%"
+caption: "Modeled spatial distribution of N from four anthropogenic sources"
+citation: "Shuler, C.K., El-Kadi, A.I., Dulai, H., Glenn, C.R. & Fackrell, J., (2017). Source partitioning of anthropogenic groundwater nitrogen in a mixed-use landscape, Tutuila, American Samoa. Hydrogeology Journal, 25(8)"
+citation_link: "https://doi.org/10.1007/s10040-017-1617-x"
+---
+
+
+This study presents a modeling framework for quantifying human impacts and for partitioning the sources of contamination related to water quality in the mixed-use landscape of a small tropical volcanic island. On Tutuila, the main island of American Samoa, production wells in the most populated region (the Tafuna-Leone Plain) produce most of the island’s drinking water. However, much of this water has been deemed unsafe to drink since 2009. Tutuila has three predominant anthropogenic non-point-groundwater-pollution sources of concern: on-site disposal systems (OSDS), agricultural chemicals, and pig manure. These sources are broadly distributed throughout the landscape and are located near many drinking-water wells. Water quality analyses show a link between elevated levels of total dissolved groundwater nitrogen (TN) and areas with high non-point-source pollution density, suggesting that TN can be used as a tracer of groundwater contamination from these sources. The modeling framework used in this study integrates land-use information, hydrological data, and water quality analyses with nitrogen loading and transport models. The approach utilizes a numerical groundwater flow model, a nitrogen-loading model, and a multi-species contaminant transport model. Nitrogen from each source is modeled as an independent component in order to trace the impact from individual land-use activities. Model results are calibrated and validated with dissolved groundwater TN concentrations and inorganic δ15N values, respectively. Results indicate that OSDS contribute significantly more TN to Tutuila’s aquifers than other sources, and thus should be prioritized in future water-quality management efforts.

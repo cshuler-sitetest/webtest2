@@ -1,0 +1,10 @@
+---
+title: "Assessment of terrigenous nutrient loading to coastal ecosystems along a human land-use gradient"
+img: "assets/sh/rnalg.png"
+wid: "50%"
+caption: "Map of sample types and sites from the study"
+citation: Shuler, C. K., Amato, D. W., Gibson, V., Baker, L., Olguin, A. N., Dulai, H., ... & Alegado, R. A. (2019). Assessment of terrigenous nutrient loading to coastal ecosystems along a human land-use gradient, Tutuila, American Samoa. Hydrology, 6(1), 18.
+citation_link: https://doi.org/10.3390/hydrology6010018
+---
+
+Anthropogenic nutrient loading is well recognized as a stressor to coastal ecosystem health. However, resource managers are often focused on addressing point source or surface water discharge, whereas the impact of submarine groundwater discharge (SGD) as a nutrient vector is often unappreciated. This study examines connections between land use and nutrient loading through comparison of four watersheds and embayments spanning a gradient of human use impact on Tutuila, a high tropical oceanic island in American Samoa. In each study location, coastal radon-222 measurements, dissolved nutrient concentrations, and nitrogen isotope values (δ15N) in water and in situ macroalgal tissue were used to explore SGD and baseflow derived nutrient impacts, and to determine probable nutrient sources. In addition to sampling in situ macroalgae, pre-treated macroalgal specimens were deployed throughout each embayment to uptake ambient nutrients and provide a standardized assessment of differences between locations. Results show SGD-derived nutrient flux was more significant than baseflow nutrient flux in all watersheds, and δ15N values in water and algae suggested wastewater or manure are likely sources of elevated nutrient levels. While nutrient loading correlated well with expected anthropogenic impact, other factors such as differences in hydrogeology, distribution of development, and wastewater infrastructure also likely play a role in the visibility of impacts in each watershed.
