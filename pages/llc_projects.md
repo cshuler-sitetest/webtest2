@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Company Projects
+
 permalink: /llc_projects/
 feature-img: "assets/sh/RIMG0251.JPG"
 tags: []
@@ -9,6 +9,7 @@ tags: []
 ## Shuler Hydrologic Past Projects
 
 ###### (click title to expand)
+
 
 
 <div class="accordion">

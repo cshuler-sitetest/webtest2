@@ -34,11 +34,17 @@ language:                                               # In _data/language.yml
 paginate: 5
 paginate_path: "/blog/page:num"
 
-# PORTFOLIO
-collections:
-  portfolio:
+# ACCORDIAN
+collections:    
+  reports:
+    output: false
+  llc_proj:
     output: true
-    permalink: /:collection/:name
+  peer_rev:
+    output: true
+   
+
+    
 
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]

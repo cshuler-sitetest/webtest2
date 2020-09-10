@@ -1,0 +1,40 @@
+<!-- Publications Accordian slider section -->
+
+
+<div class="accordion">
+    {% for proj in site.peer_rev %}
+            <input type="radio" name="select" class="accordion-select" />
+        <div class="accordion-title">
+        <span>
+            {{ proj.title}}
+        </span>
+        </div>
+        
+        <div class="accordion-content">
+            {{ proj.content }}
+            <div> 
+                <center>
+                    <img src= "{{ proj.img | relative_url }}" width="{{ proj.wid }}">
+                    <p>
+                        {{ proj.caption }}
+                    </p>
+                </center>
+                
+                <br>
+
+                <h style="font-size:14px">
+                    <a href="{{ proj.citation_link }}" target="_blank">
+                        Citation:
+                        {{ proj.citation }}
+                    </a>
+                </h>
+                 
+                
+            </div>
+        </div>
+        
+
+        
+    
+    
+    {% endfor %}

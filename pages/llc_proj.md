@@ -1,11 +1,9 @@
 --- 
 layout: page
-
+title : Past Projects
 feature-img: "assets/sh/RIMG0251.JPG"
 ---
 
 
 
-{% include reports.html %}
-
-
+{% include llc_proj.html %}

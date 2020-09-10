@@ -1,0 +1,25 @@
+<!-- Report Accordian slider section -->
+
+
+<div class="accordion">
+    {% for proj in site.reports %}
+            <input type="radio" name="select" class="accordion-select" />
+        <div class="accordion-title">
+        {{ proj.title}}
+        </div>
+        
+        <div class="accordion-content">
+            {{ proj.content }}
+            <div> 
+                <center>
+                    <img src= "{{ proj.img | relative_url }}" width="{{ proj.wid }}">
+                    <p>
+                        {{ proj.caption }}
+                    </p>
+                </center>
+            </div>
+        </div>
+                 
+    
+    
+    {% endfor %}

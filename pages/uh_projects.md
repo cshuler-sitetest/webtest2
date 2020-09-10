@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Peer-Reviewed
-permalink: /PR_projects/
+
+
 feature-img: "assets/sh/RIMG1484_crpd2.jpg"
 tags: []
 ---
